@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-Welcome to the **Blog Generator** project! This project leverages advanced AI tools and workflows to generate blog content from YouTube video transcripts. Whether you provide a YouTube URL or a title, the application extracts transcripts, plans a structured blog outline, writes individual sections, and synthesizes them into a complete blog post.
+Welcome to the Blog Generator project! This project leverages advanced AI tools and workflows to generate blog content from a given title. Simply provide a title, and the application will craft a structured blog outline, write detailed sections, and synthesize them into a complete blog post.
 
 ## ✨ Features
 
